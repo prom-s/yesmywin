@@ -1,0 +1,2538 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<script src="js/jquery-1.11.3.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/style1.js" type="text/javascript" charset="utf-8"></script>
+		<link rel="stylesheet" type="text/css" href="css/style.css"/>
+	</head>
+	<body>
+		<!--
+        	作者：offline
+        	时间：2016-12-10
+        	描述：allTop
+        -->
+		<div class="allTop">
+			<div class='allTopmain'>
+				<p class='left'>
+					<span style="color:#C53F4C ;">9840789</span>
+					位会员的选择
+					<a href="javascript:void(0)">登录</a><s></s>
+					<a href="javascript:void(0)" style="font-weight: bold;">注册</a>
+				</p>
+				<ul class='right'>
+					<li><a href="javascript:void(0)">会员俱乐部</a></li><s></s>
+					<li style="font-weight: bold;"><a href="javascript:void(0)">签到</a></li><s></s>
+					<li class='wdzh'><a href="javascript:void(0)">我的账户</a><i></i>
+						<div class='rightA'>
+							<span></span>
+							<ul>
+								<li><a href="">我的订单</a></li>
+								<li><a href="">我的存酒库</a></li>
+								<li><a href="">我的优惠券</a></li>
+								<li><a href="">我的收藏夹</a></li>
+							
+							</ul>
+						</div>
+					</li><s></s>
+					<li class='sjb'><a href="javascript:void(0)">手机版</a>
+						<div class='rightB'>
+							<span></span>
+							<p>APP首单<span style="color: red;">满100得100</span></p>
+							<div>
+								<img src="img/red-code.png"/>
+								<div>
+									<b>下载也买酒客户端</b>
+									<img src="img/ios.png" alt="" />
+									<img src="img/android.png" alt="" />
+								</div>
+								<a href="">了解更多客户端!</a>
+							</div>
+						</div>
+					</li><s></s>
+					<li><a href="javascript:void(0)">红酒交易中心</a></li><s></s>
+					<li class='ymfw'><a href="javascript:void(0)">也买服务</a><i></i>
+						<div class='rightC'>
+							<span></span>
+							<ul>
+								<li>
+									<a href="javascript:void(0)">品酒会</a>|
+							        <a href="javascript:void(0)">葡萄酒培训</a>
+								</li>
+								<li>
+									<a href="javascript:void(0)">存酒库</a>|
+							       <a href="javascript:void(0)">礼品卡</a>
+								</li>
+								<li>
+									<a href="javascript:void(0)">积分商城</a>|
+							        <a href="javascript:void(0)">酒窖</a>
+								</li>
+								<li>
+									<a href="javascript:void(0)">《葡萄酒爱好者》</a>
+								</li>
+								<li>
+									<a href="javascript:void(0)">客服：4008208060</a>
+								</li>
+							</ul>
+						</div>
+						
+					</li><s></s>
+					<li style="font-weight: bold;"><a href="javascript:void(0)">设置勿扰</a></li>
+				</ul>
+			</div>
+		</div>
+		<!--
+        	作者：offline
+        	时间：2016-12-10
+        	描述：logo
+        -->
+		<div class='logo'>
+			<div class='logomain'>
+				<div class='logoleft left'>
+					<a href="javascript:void(0)">
+					   <img src="img/截图 2016-12-10 13.31.00.png" style="height: 100px;"/>
+					</a>
+					<a href="javascript:void(0)">
+						<img src='img/logo.png'/>
+					</a>
+				</div>
+				<div class='logoright right'>
+					<div class='inpp left'>
+						<form action="" method="post">
+							<input type="text" class='inp' id='seach' placeholder="输入你要查找的商品"/>
+					       <input type="submit" class='inp1' value="搜索" />
+						</form>
+						
+					   <p>
+							<a href="javascript:void(0)">名庄酒</a>
+							<a href="javascript:void(0)">特色陈年老酒</a>
+							<a href="javascript:void(0)">也买酒学院</a>
+					  </p>
+					</div>
+					<div class='gouwuche right'>
+						<div>
+							你的购物车内暂时没有商品，去<b>首页</b>挑选
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--
+        	作者：offline
+        	时间：2016-12-10
+        	描述：Nav
+        -->
+        <nav class='nav'>
+        	<div class='navmain'>
+        		<div class='navleft left'>
+        			<a href="">选 酒 中 心</a>
+        		</div>
+        		<ul class='left navright'>
+        			<p style="background: #BC0001;"><a href="javascript:void(0)">首页</a></p>
+        			<li><a href="javascript:void(0)">超值抢购</a></li><s></s><b></b>
+        			<li><a href="javascript:void(0)">精品闪购</a></li><s></s><b></b>
+        			<li><a href="javascript:void(0)">名庄特卖</a></li><s></s><b></b>
+        			<li><a href="javascript:void(0)">香港免税</a></li><s></s><b></b>
+        			<li><a href="javascript:void(0)">老酒馆</a></li><s></s><b></b>
+        			<li><a href="javascript:void(0)">企业采购</a></li><s></s><b></b>
+        			<li><a href="javascript:void(0)">尖叫系列</a></li>
+        		</ul>
+        	</div>
+        </nav>
+        <!--
+        	作者：offline
+        	时间：2016-12-10
+        	描述：Banner
+        -->
+        <div class='bannerAll'>
+        	<div class='bannerU'>
+        		<ul class='banner1'>
+	        		<li style="opacity:1;display: block;"><img src="img/1.jpg"/></li>
+	        		<li><img src="img/2.jpg"/></li>
+	        		<li><img src="img/3.jpg"/></li>
+	        		<li><img src="img/4.jpg"/></li>
+	        		<li><img src="img/5.jpg"/></li>
+	        		<li><img src="img/6.jpg"/></li>
+        	  </ul>
+        	  <ul class='BBt'>
+        	  	<li style="background: #D3161B;">1</li>
+        	  	<li>2</li>
+        	  	<li>3</li>
+        	  	<li>4</li>
+        	  	<li>5</li>
+        	  	<li>6</li>
+        	  </ul>
+        	</div>
+        	
+          <div class='banner'>
+        		<div class='bannerLeft left'>
+        			<div class='bannerleft1'>
+        				<p><a href="javascript:void(0)">葡萄酒</a><i></i></p>
+        				<a href="javascript:void(0)">法国</a>
+        				<a href="javascript:void(0)">西班牙</a>
+        				<a href="javascript:void(0)">意大利</a>
+        				<a href="javascript:void(0)">智力</a><br />
+        				<a href="javascript:void(0)">干红</a>
+        				<a href="javascript:void(0)">桃红</a>
+        				<a href="javascript:void(0)">甜白</a>
+        				<a href="javascript:void(0)">起泡</a>
+        				<a href="javascript:void(0)">香槟</a><br />
+        				<a href="javascript:void(0)">加强葡萄酒</a>
+        				<a href="javascript:void(0)">列级名庄</a>
+        			</div>
+        			<div class='bannerleft1 bannerleft2'>
+        				<p><a href="javascript:void(0)">一键选酒</a><s></s><i></i></p>
+        				<a href="javascript:void(0)" class="red">礼盒</a>
+        				<a href="javascript:void(0)">餐酒精选</a>
+        				<a href="javascript:void(0)">实惠套装</a><br />
+        				<a href="javascript:void(0)">权威高分酒</a>
+        				<a href="javascript:void(0)">聚会婚庆整箱</a><br />
+        				<a href="javascript:void(0)">精选闪购</a>
+        				<a href="javascript:void(0)" class="red">团购</a>
+        				<a href="javascript:void(0)" class="red">陈酿老酒</a>
+        			</div>
+        			<div class='bannerleft1 bannerleft3'>
+        				<p><a href="javascript:void(0)">洋酒烈酒</a><i></i></p>
+        				<a href="javascript:void(0)">轩尼诗</a>
+        				<a href="javascript:void(0)">威士忌</a>
+        				<a href="javascript:void(0)">鸡尾酒</a>
+        				<a href="javascript:void(0)">百利甜</a><br />
+        				<a href="javascript:void(0)">干邑</a>
+        				<a href="javascript:void(0)">白兰地</a>
+        				<a href="javascript:void(0)">朗姆酒</a>
+        				<a href="javascript:void(0)">伏加特</a>
+        			</div>
+        			<div class='bannerleft1 bannerleft4'>
+        				<p><a href="javascript:void(0)">中国白酒</a><i></i></p>
+        				<a href="javascript:void(0)">茅台</a>
+        				<a href="javascript:void(0)">五粮液</a>
+        				<a href="javascript:void(0)">洋河</a>
+        				<a href="javascript:void(0)">红花郎</a>
+        			</div>
+        			<div class='bannerleft1 bannerleft3'>
+        				<p><a href="javascript:void(0)">酒具周边</a><i></i></p>
+        				<a href="javascript:void(0)" class="red">酒杯</a>
+        				<a href="javascript:void(0)">酒具</a>
+        				<a href="javascript:void(0)">酒刀</a>
+        				<a href="javascript:void(0)">醒酒器</a><br />
+        				<a href="javascript:void(0)">礼盒</a>
+        				<a href="javascript:void(0)">其他酒具</a>
+        			</div>
+        			<div class='bannerleft1 bannerleft6'>
+        				<p><a href="javascript:void(0)">啤酒 黄酒 日韩酒</a><i></i></p>
+        				<a href="javascript:void(0)">进口啤酒</a>
+        				<a href="javascript:void(0)">精酿黄酒</a>
+        				<a href="javascript:void(0)">钜惠抢购</a><br />
+        				<a href="javascript:void(0)">绍兴黄酒</a>
+        				<a href="javascript:void(0)">清酒</a>
+        				<a href="javascript:void(0)">梅酒</a>
+        				<a href="javascript:void(0)">烧酒</a>
+        			</div>
+        		</div>
+        		<div class='bannerRight'>
+        			<img src="img/nav_log.png"/>
+        			<p><a href="javascript:void(0)">会员中心</a></p>
+        			<p><a href="javascript:void(0)" style="font-weight: bold;">登录</a></p>
+        			<p><a href="javascript:void(0)" style="font-weight: bold;">注册</a></p>
+        			<ul>
+        				<li style="background: url(img/tit.png) no-repeat 12px 13px;"><a href="javascript:void(0)">我的订单</a></li>
+        				<li style="background: url(img/tit.png) no-repeat 12px 13px;"><a href="javascript:void(0)">我的优惠券</a></li>
+        				<li style="background: url(img/tit.png) no-repeat 12px 13px;"><a href="javascript:void(0)">我的积分</a></li>
+        				<li style="background: url(img/tit.png) no-repeat 12px 13px;"><a href="javascript:void(0)">我的存酒</a></li>
+        				<li style="background: url(img/tit.png) no-repeat 12px 13px;"><a href="javascript:void(0)">会员升级</a></li>
+        			</ul>
+        		</div>
+        	</div>
+        </div>
+        <!--
+        	作者：offline
+        	时间：2016-12-11
+        	描述：Main
+        -->
+        <div class="mainOne">
+        	<div class='mainOLeft'>
+        		<img src="img/jingpin.jpg"/>
+        		<!--<div class='Dimg'>
+        			<ul>
+        				<li><a href="">品酒会</a></li>
+        				<li><a href="">存酒库</a></li>
+        				<li><a href="">礼品卡</a></li>
+        				<li><a href="">积分商城</a></li>
+        				<li class='pt'  style="border-right:none">《葡萄酒爱好者》</li>
+        				<li style="border-left:none"></li>
+        			</ul>
+        			<u class='jp'>《精品选购》</u>
+        			
+        		</div>
+        		   <s class='jian'>-</s>
+        			<s class='jia'>+</s>-->
+        		<ul>
+        			<li><a href="javascript:void(0)">促销活动</a></li>
+        			<li><a href="javascript:void(0)">最新公告</a></li>
+        			<li><a href="javascript:void(0)">媒体聚焦</a></li>
+        		</ul>
+        		<div class='div1'>
+        			<div style="display:block;" clsaa='D1'>
+	        			<ul>
+	        				<li><i></i><a href="">【双十一】电影折扣卷已发放</a></li>
+	        				<li><i></i><a href="">也买酒线下新店开业满200减</a></li>
+	        				<li><i></i><a href="">新春第二波满199送诺心蛋糕卷</a></li>
+	        				<li><i></i><a href="">企业采购专场满额返实物礼品卡</a></li>
+	        			</ul>
+	        		</div>
+	        		<div class='D1'>
+	        			<ul>
+	        				<li><i></i><a href="">2月7日上海仓系统升级暂停放</a></li>
+	        				<li><i></i><a href="">冬季部分区域红酒暂停配送通知</a></li>
+	        				<li><i></i><a href="">因盘点个仓11月12日暂</a></li>
+	        				<li><i></i><a href="">2016也买酒就评奖励规则更新</a></li>
+	        			</ul>
+	        		</div>
+	        		<div  clsaa='D1'>
+	        			<ul>
+	        				<li><i></i><a href="">James Suncking TOP 5 Picks 七</a></li>
+	        				<li><i></i><a href="">2014年是属于波尔多左岸的一</a></li>
+	        				<li><i></i><a href="">左岸不容小觑，600款2014年葡</a></li>
+	        				<li><i></i><a href="">2014年属于左岸的一年，250多款</a></li>
+	        			</ul>
+	        		</div>
+        		</div>
+        		
+        	</div>
+        	<div class='mainORight'>
+        		<ul>
+        			<li>
+        				<div>
+        					<p>人气抢购</p>
+        					百元超值特价
+        				</div>
+        			</li>
+        			<li>
+        				<div>
+        					<p>整箱特惠</p>
+        					口粮囤酒必选
+        				</div>
+        			</li>
+        			<li>
+        				<div>
+        					<p>名庄特卖</p>
+        					限量知名酒庄
+        				</div>
+        			</li>
+        			<li>
+        				<div>
+        					<p>精品闪购</p>
+        					优质品牌精选
+        					
+        				</div>
+        			</li>
+        			<li>
+        				<div>
+        					<p>白酒/陈年老酒</p>
+        					正品保证
+        				</div>
+        			</li>
+        		</ul>
+        		<div class='mainORightBOTT'>
+        			<ul class='BOTTMain'>
+        				<li>
+        					<div>
+        						<dl>
+        							<p>还剩6天22小时59分</p>
+        							<dt><img src="img/one.jpg"/></dt>
+        							<dd class='Ml'>玛利亚海之情干红葡萄酒</dd>
+        							<dd class='CO'>Costa Maria Vino Tinto Seco</dd>
+        							<dd class='CO'>抢购价:<s>￥35.0</s></dd>
+        						</dl>
+        						<dl>
+        							<p>还剩6天22小时59分</p>
+        							<dt><img src="img/two.png"/></dt>
+        							<dd class='Ml'>夏迪威艾驰霞干红葡萄酒</dd>
+        							<dd class='CO'>HarDays VR Caberent</dd>
+        							<dd class='CO'>抢购价:<s>￥69.0</s></dd>
+        						</dl>
+        						<dl>
+        							<p>还剩6天22小时59分</p>
+        							<dt><img src="img/tree.jpg"/></dt>
+        							<dd class='Ml'>博若莱超值品鉴组合</dd>
+        							<dd class='CO'></dd>
+        							<dd class='CO'>抢购价:<s>￥499.0</s></dd>
+        						</dl>
+        						<dl>
+        							<p>还剩6天22小时59分</p>
+        							<dt><img src="img/fore.png"/></dt>
+        							<dd class='Ml'>菲尝.西柚味葡萄配制酒</dd>
+        							<dd class='CO'></dd>
+        							<dd class='CO'>抢购价:<s>￥49.0</s></dd>
+        						</dl>
+        						<dl>
+        							<p>还剩6天22小时59分</p>
+        							<dt><img src="img/five.jpg"/></dt>
+        							<dd class='Ml'>（1999年）52° 五粮液 500ml陈年老酒</dd>
+        							<dd class='CO'></dd>
+        							<dd class='CO'>抢购价:<s>￥2640.0</s></dd>
+        						</dl>
+        					</div>
+        				</li>
+        				<li>
+        					<div>
+        						<dl>
+        							<p>还剩6天22小时59分</p>
+        							<dt><img src="img/one1.png"/></dt>
+        							<dd class='Ml'>玛利亚海之情干红葡萄酒</dd>
+        							<dd class='CO'>Costa Maria Vino Tinto Seco</dd>
+        							<dd class='CO'>抢购价:<s>￥35.0</s></dd>
+        						</dl>
+        						<dl>
+        							<p>还剩6天22小时59分</p>
+        							<dt><img src="img/one2.jpg"/></dt>
+        							<dd class='Ml'>夏迪威艾驰霞干红葡萄酒</dd>
+        							<dd class='CO'>HarDays VR Caberent</dd>
+        							<dd class='CO'>抢购价:<s>￥69.0</s></dd>
+        						</dl>
+        						<dl>
+        							<p>还剩6天22小时59分</p>
+        							<dt><img src="img/one3.png"/></dt>
+        							<dd class='Ml'>博若莱超值品鉴组合</dd>
+        							<dd class='CO'></dd>
+        							<dd class='CO'>抢购价:<s>￥499.0</s></dd>
+        						</dl>
+        						<dl>
+        							<p>还剩6天22小时59分</p>
+        							<dt><img src="img/one4.jpg"/></dt>
+        							<dd class='Ml'>菲尝.西柚味葡萄配制酒</dd>
+        							<dd class='CO'></dd>
+        							<dd class='CO'>抢购价:<s>￥49.0</s></dd>
+        						</dl>
+        						<dl>
+        							<p>还剩6天22小时59分</p>
+        							<dt><img src="img/one5.png"/></dt>
+        							<dd class='Ml'>（1999年）52° 五粮液 500ml陈年老酒</dd>
+        							<dd class='CO'></dd>
+        							<dd class='CO'>抢购价:<s>￥2640.0</s></dd>
+        						</dl>
+        					</div>
+        				</li>
+        				<li>
+        					<div>
+        						<dl>
+        							<p>还剩6天22小时59分</p>
+        							<dt><img src="img/two1.jpg"/></dt>
+        							<dd class='Ml'>玛利亚海之情干红葡萄酒</dd>
+        							<dd class='CO'>Costa Maria Vino Tinto Seco</dd>
+        							<dd class='CO'>抢购价:<s>￥35.0</s></dd>
+        						</dl>
+        						<dl>
+        							<p>还剩6天22小时59分</p>
+        							<dt><img src="img/two2.JPG"/></dt>
+        							<dd class='Ml'>夏迪威艾驰霞干红葡萄酒</dd>
+        							<dd class='CO'>HarDays VR Caberent</dd>
+        							<dd class='CO'>抢购价:<s>￥69.0</s></dd>
+        						</dl>
+        						<dl>
+        							<p>还剩6天22小时59分</p>
+        							<dt><img src="img/two3.jpg"/></dt>
+        							<dd class='Ml'>博若莱超值品鉴组合</dd>
+        							<dd class='CO'></dd>
+        							<dd class='CO'>抢购价:<s>￥499.0</s></dd>
+        						</dl>
+        						<dl>
+        							<p>还剩6天22小时59分</p>
+        							<dt><img src="img/two4.jpg"/></dt>
+        							<dd class='Ml'>菲尝.西柚味葡萄配制酒</dd>
+        							<dd class='CO'></dd>
+        							<dd class='CO'>抢购价:<s>￥49.0</s></dd>
+        						</dl>
+        						<dl>
+        							<p>还剩6天22小时59分</p>
+        							<dt><img src="img/two5.jpg"/></dt>
+        							<dd class='Ml'>（1999年）52° 五粮液 500ml陈年老酒</dd>
+        							<dd class='CO'></dd>
+        							<dd class='CO'>抢购价:<s>￥2640.0</s></dd>
+        						</dl>
+        					</div>
+        				</li>
+        				<li>
+        					<div>
+        						<dl>
+        							<p>还剩6天22小时59分</p>
+        							<dt><img src="img/tree1.png"/></dt>
+        							<dd class='Ml'>玛利亚海之情干红葡萄酒</dd>
+        							<dd class='CO'>Costa Maria Vino Tinto Seco</dd>
+        							<dd class='CO'>抢购价:<s>￥35.0</s></dd>
+        						</dl>
+        						<dl>
+        							<p>还剩6天22小时59分</p>
+        							<dt><img src="img/tree2.jpg"/></dt>
+        							<dd class='Ml'>夏迪威艾驰霞干红葡萄酒</dd>
+        							<dd class='CO'>HarDays VR Caberent</dd>
+        							<dd class='CO'>抢购价:<s>￥69.0</s></dd>
+        						</dl>
+        						<dl>
+        							<p>还剩6天22小时59分</p>
+        							<dt><img src="img/tree3.jpg"/></dt>
+        							<dd class='Ml'>博若莱超值品鉴组合</dd>
+        							<dd class='CO'></dd>
+        							<dd class='CO'>抢购价:<s>￥499.0</s></dd>
+        						</dl>
+        						<dl>
+        							<p>还剩6天22小时59分</p>
+        							<dt><img src="img/tree4.png"/></dt>
+        							<dd class='Ml'>菲尝.西柚味葡萄配制酒</dd>
+        							<dd class='CO'></dd>
+        							<dd class='CO'>抢购价:<s>￥49.0</s></dd>
+        						</dl>
+        						<dl>
+        							<p>还剩6天22小时59分</p>
+        							<dt><img src="img/tree5.jpg"/></dt>
+        							<dd class='Ml'>（1999年）52° 五粮液 500ml陈年老酒</dd>
+        							<dd class='CO'></dd>
+        							<dd class='CO'>抢购价:<s>￥2640.0</s></dd>
+        						</dl>
+        					</div>
+        				</li>
+        				<li>
+        					<div>
+        						<dl>
+        							<p>还剩6天22小时59分</p>
+        							<dt><img src="img/fore1.png"/></dt>
+        							<dd class='Ml'>玛利亚海之情干红葡萄酒</dd>
+        							<dd class='CO'>Costa Maria Vino Tinto Seco</dd>
+        							<dd class='CO'>抢购价:<s>￥35.0</s></dd>
+        						</dl>
+        						<dl>
+        							<p>还剩6天22小时59分</p>
+        							<dt><img src="img/fore2.png"/></dt>
+        							<dd class='Ml'>夏迪威艾驰霞干红葡萄酒</dd>
+        							<dd class='CO'>HarDays VR Caberent</dd>
+        							<dd class='CO'>抢购价:<s>￥69.0</s></dd>
+        						</dl>
+        						<dl>
+        							<p>还剩6天22小时59分</p>
+        							<dt><img src="img/fore3.jpg"/></dt>
+        							<dd class='Ml'>博若莱超值品鉴组合</dd>
+        							<dd class='CO'></dd>
+        							<dd class='CO'>抢购价:<s>￥499.0</s></dd>
+        						</dl>
+        						<dl>
+        							<p>还剩6天22小时59分</p>
+        							<dt><img src="img/fore4.jpg"/></dt>
+        							<dd class='Ml'>菲尝.西柚味葡萄配制酒</dd>
+        							<dd class='CO'></dd>
+        							<dd class='CO'>抢购价:<s>￥49.0</s></dd>
+        						</dl>
+        						<dl>
+        							<p>还剩6天22小时59分</p>
+        							<dt><img src="img/fore5.jpg"/></dt>
+        							<dd class='Ml'>（1999年）52° 五粮液 500ml陈年老酒</dd>
+        							<dd class='CO'></dd>
+        							<dd class='CO'>抢购价:<s>￥2640.0</s></dd>
+        						</dl>
+        					</div>
+        				</li>
+        			</ul>
+        		</div>
+        	</div>
+        </div>
+        <!--
+        	作者：offline
+        	时间：2016-12-12
+        	描述：2
+        -->
+        <div class='mainTwo'>
+        	<img src="img/截图 2016-12-11 15.27.34.png"/>
+        </div>
+        <!--
+        	作者：offline
+        	时间：2016-12-12
+        	描述：3
+        -->
+        <div class='mainTree'>
+        	<div class='mainTTOP'>
+        		<i></i>
+        		<b>猜你喜欢</b>
+        		根据你的喜好精心推选
+        		<a href="" class='right'>没有适合的？换一批</a>
+        	</div>
+        	<div class='mainTBom'>
+        		<div class='mainTBomL'>
+        			<p></p>
+        			<ul>
+        				<li><i style="background: url(img/icon2.png) no-repeat 0 -22px;"></i><a href="">实惠控</a></li>
+        				<li><i style="background: url(img/icon2.png) no-repeat 0 -70px;"></i><a href="">品牌控</a></li>
+        				<li><i style="background: url(img/icon2.png) no-repeat 0 -118px;"></i><a href="">餐酒控</a></li>
+        				<li><i style="background: url(img/icon2.png) no-repeat 0 -165px;"></i><a href="">发烧控</a></li>
+        				<li><i style="background: url(img/icon2.png) no-repeat -208px -118px;"></i><a href="">商务控</a></li>
+        				<li><i style="background: url(img/icon2.png) no-repeat -208px -164px;"></i><a href="">逼格控</a></li>
+        				<li><i style="background: url(img/icon2.png) no-repeat -208px -22px;"></i><a href="">夜猫控</a></li>
+        				<li><i style="background: url(img/icon2.png) no-repeat -208px -70px;"></i><a href="">颜值控</a></li>
+        			</ul>
+        		</div>
+        		<div class='mainTBomR'>
+        			<ul>
+        				<li>
+        					<img src="img/cao1.png"/>
+        					<div>
+        						<ul>
+        							<li><a href="">克拉西湾干红葡萄酒</a></li>
+        							<li>Les Haute De Clary</li>
+        							<li>产地：法国（France）</li>
+        							<li>品种：60%歌海娜</li>
+        							<li>（Grebache）30%佳丽酿</li>
+        							<li>好评度：96%</li>
+        						</ul>
+        						<b>￥55.0</b>
+        					</div>
+        				</li>
+        				<li>
+        					<img src="img/cao2.JPG"/>
+        					<div>
+        						<ul>
+        							<li><a href="">葡萄庄园干红葡萄酒</a></li>
+        							<li>Les Sentiers de la Pointe</li>
+        							<li>产地：法国（France）</li>
+        							<li>品种：40%歌海娜(Grenache)</li>
+        							<li>20%希拉(Syrah)、20%佳丽酿</li>
+        							<li>好评度：97%</li>
+        						</ul>
+        						<b>￥49.0</b>
+        					</div>
+        				</li>
+        				<li>
+        					<img src="img/cao3.JPG"/>
+        					<div>
+        						<ul>
+        							<li><a href="">圣诞节圣乔维干红葡萄酒</a></li>
+        							<li>Christmas Red Sangiovese</li>
+        							<li>产地：意大利(Italy)</li>
+        							<li>品种：100%桑娇维赛</li>
+        							<li>(Sangiovese</li>
+        							<li>好评度：95%</li>
+        						</ul>
+        						<b>￥88.0</b>
+        					</div>
+        				</li>
+        				<li>
+        					<img src="img/cao4.JPG"/>
+        					<div>
+        						<ul>
+        							<li><a href="">恋曲甜起泡葡萄酒</a></li>
+        							<li>M Cavatina Premium Moscat</li>
+        							<li>产地：意大利(Italy)</li>
+        							<li>品种：100%麝香葡萄(Moscato)</li>
+        							<li>好评度：99%</li>
+        						</ul>
+        						<b>￥55.0</b>
+        					</div>
+        				</li>
+        				<li>
+        					<img src="img/cao5.png"/>
+        					<div>
+        						<ul>
+        							<li><a href="">巴黎范儿桃红葡萄酒</a></li>
+        							<li>So Parisian Syrah Rose</li>
+        							<li>产地：法国（France）</li>
+        							<li>品种：100%西拉(Syrah</li>
+        							<li>好评度：96%</li>
+        						</ul>
+        						<b>￥59.0</b>
+        					</div>
+        				</li>
+        				<li>
+        					<img src="img/cao6.png"/>
+        					<div>
+        						<ul>
+        							<li><a href="">鲁米那星宇梅乐红葡萄酒</a></li>
+        							<li>Lumina Merlot Aries Ram</li>
+        							<li>产地：智利(Chile)</li>
+        							<li>品种：100%美乐(Merlot)</li>
+        							<li>好评度：99%</li>
+        						</ul>
+        						<b>￥59.0</b>
+        					</div>
+        				</li>
+        			</ul>
+        		</div>
+        	</div>
+        </div>
+        <!--
+        	作者：offline
+        	时间：2016-12-12
+        	描述：4
+        -->
+        <div class='mainFore'>
+        	<div class='mainForeL left'>
+        		<div class='shugang'><i></i><b>刚刚被好评过得</b></div>
+        		<div class='FBOTT'>       			
+        			<ul class='DD'>
+        				<li>
+        					<div class='FBOTTL'>
+		        				<i></i>
+		        				<b>65.0</b>
+		        				<s></s>
+		        			</div>
+		        			<div class='FBOTTR'>
+		        				<p>恋爱季甜桃红高泡葡萄酒（又名：恋爱季低纯桃红高泡葡萄酒）</p>
+		        				这是一款清新雅致的起泡酒，无论装瓶，酒标，色泽，口感均如此。
+		        				丰富的起泡混杂着香椿的果香注定这是Party的佳选
+		        				<ul>
+		        					<li>评价：546</li>
+		        					<li>销量：25619</li>
+		        				</ul>
+		        			</div>
+        				</li>
+        				<li>
+        					<div class='FBOTTL' style="background: url(img/hot2.png) no-repeat;">
+		        				<i></i>
+		        				<b>89.0</b>
+		        				<s></s>
+		        			</div>
+		        			<div class='FBOTTR'>
+		        				<p>莎普蒂尔比拉干红葡萄酒</p>
+		        				深宝石红色有红色浆果和黑莓的香气，单宁细致，平衡良好回味有枯草和泥土的芳香。
+		        				看来RP是中意酒品偏高的红酒
+		        				<ul>
+		        					<li>评价：1298</li>
+		        					<li>销量：47611</li>
+		        				</ul>
+		        			</div>
+        				</li>
+        				<li>
+        					<div class='FBOTTL' style="background: url(img/hot3.png);">
+		        				<i></i>
+		        				<b>65.0</b>
+		        				<s></s>
+		        			</div>
+		        			<div class='FBOTTR'>
+		        				<p>雪鹿山谷红葡萄酒</p>
+		        				酒标很漂亮但是这是一款很廉价的餐酒，酒体很单薄有一点点果香，
+		        				没什么后味，说实话很失望。
+		        				<ul>
+		        					<li>评价：143</li>
+		        					<li>销量：27876</li>
+		        				</ul>
+		        			</div>
+        				</li>
+        			</ul>
+        			<ul class='DDD'>
+        				<li style="background: #E00005;"></li>
+        				<li></li>
+        				<li></li>
+        			</ul>
+        		</div>
+        	</div>
+        	<div class='mainForeR left'>
+        		<div class='shugang'><i></i><b>刚刚被好评过得</b></div>
+        		
+        		<div class='mainForeRBOM'>
+        			<ul>
+        				<li>
+        					<dl>
+        						<dt><img src="img/c1.jpg"/></dt>
+        						<dd class='SX'><a href="">首席法兰西香槟特娘（又名：堡</a></dd>
+        						<dd class='CX'>促销信息：<a href="">商品促销</a><s>￥</s><b>705.0</b>
+        							<div id='MX'>
+        								<a href="">商品折扣</a>明星单品促销特惠
+        								
+        							</div>
+        						</dd>
+        					</dl>
+        					<div>
+        						笨笨的大象刚刚购买<br />
+        						售出数量：86件
+        					</div>
+        				</li>
+        				<li class='FBD' id='SP'>
+        					<dl>
+        						<dt><img src="img/c2.JPG"/></dt>
+        						<dd class='SX'><a href="">五色大陆珍藏赤霞珠干红葡萄酒</a></dd>
+        						<dd class='CX' id='SPD'>促销信息：<a href="" id='SPDA'>商品促销</a><s>￥</s><b>119.0</b>
+        							<div id="TH">
+        								<a href="">商品折扣</a>明星单品促销特惠
+        								
+        							</div>
+        						</dd>
+        					</dl>
+        					<div>
+        						HONGMEL刚刚购买<br />
+        						售出数量：2295件
+        					</div>
+        				</li>
+        			</ul>
+        		</div>
+        	</div>
+        </div>
+        <!--
+        	作者：offline
+        	时间：2016-12-12
+        	描述：5555555
+        -->
+        <div class='mainFIVE'>
+        	<div class='shugang'><i></i><b>刚刚被好评过得</b></div>
+        	<div class='mainFiveBom'>
+        		<div class='FiveBomL left'>
+        			<h1></h1>
+        			<ul>
+        				<li>
+        					<img src="img/tle0.png" class='left'/>
+        					<div class='left'>
+        						<a href="">印巴霞多丽半干白葡萄酒</a><br />
+        						Silver Palm Chardonnay
+        						<p>￥<b>178.0</b></p>
+        						售出数量：361件
+        					</div>
+        					
+        				</li>
+        				<li>
+        					<img src="img/tle2.jpg" class='left'/>
+        					<div class='left'>
+        						<a href="">奥林匹克女神宝利格红葡萄酒</a><br />
+        						Donna Olimpia 1898 Bolgheri
+        						<p>￥<b>299.0</b></p>
+        						售出数量：73件
+        					</div>
+        				</li>
+        				<i></i>
+        			</ul>
+        			<p class='p1'>品鉴会-tasting</p>
+        			<div class='Guang'>
+        				<ul>
+        					<li><a href="">【广州】YClub广州|本是同根生，兄弟齐比</a></li>
+        					<li><a href="">【上海】YClub上海|"情迷六月黄" 私厨酒</a></li>
+        					<li><a href="">【苏州】YClub苏州|江南第一局</a></li>
+        				</ul>
+        			</div>
+        		</div>
+        		<div class='FiveBomC left'>
+        			<div class='FiveBomCTop'>发现好货</div>
+        			<div class='FiveBomCBom'>
+        				<ul>
+        					<li>
+        						<p class='left'>
+        							<i>限量销售</i>
+        							<i>超级波尔多AOC</i>
+        						</p>
+        						<img src="img/c1.png" alt=""  class='left' style="width:150px;height: 245px;"/>
+        						<dl class='left'>
+        							<dt class='LA'><a href="">拉昂城堡干红葡萄酒（超级波尔</a></dt>
+        							<dt>La Bastide Laurent Reserve Bordeaux Su</dt>
+        							<dt class='BAS'><i>￥</i><b>69.0</b></dt>
+        							<dt>
+        								从葡萄种植到装瓶是严格由果农和酿酒师控制的，
+        								整个葡萄种植和酿酒赋予此款酒新的生命；
+        								拉昂城堡珍藏。此款葡萄酒为开胃酒或者配餐都非常出色，
+        								是和搭配沙拉，烤肉和烤鱼或醇厚的奶酪。
+        								试饮温度在15度到18度
+        							</dt>
+        						</dl>
+        					</li>
+        					<li>
+        						<p class='left'>
+        							<i>盲目会胜过拉菲</i>
+        							<i>世界Biggest酒庄</i>
+        						</p>
+        						<img src="img/cao1.png" alt=""  class='left' style="width:150px;height: 245px;"/>
+        						<dl class='left'>
+        							<dt class='LA'><a href="">拉昂城堡干红葡萄酒（超级波尔</a></dt>
+        							<dt></dt>
+        							<dt class='BAS'><i>￥</i><b>109.0</b></dt>
+        							<dt>
+        								此款产品为西班牙教科书级别的葡萄酒生产商GONZALESS 
+        								BYASS旗下的RIOJA里奥哈十大天王之一BERONIA贝尔莱酒庄生产。
+        								100%的丹魄TEMPRANILLO单一葡萄品种也是向RIOJA，
+        								这个把TEMPRANILLO带出西
+        							</dt>
+        						</dl>
+        					</li>
+        				</ul>
+        			</div>
+        		</div>
+        		<div class='FiveBomR left'>
+        			<div class='FiveBomRTop'>本周明星推荐</div>
+        			<dl class='FiveBomRBom'>
+        				<dt>
+        					<img src="img/截图 2016-12-12 18.49.49.png"/>
+        					<ul class='left'>
+        						<li>沐新</li>
+        						<li>金牌买手</li>
+        					</ul>
+        				</dt>
+        				<dd>
+        					<img src="img/截图 2016-12-12 19.06.39.png"/>
+        					<p>
+        						<a href="">
+        							美国那罗达庄园纳帕谷赤霞朱红葡萄酒<br />
+        							La Gota Howell Mountain Gabernet Sauvignon
+        						</a><br />
+        						<s>￥</s><strong>750.0</strong>
+        					</p>
+        					<a href=""></a>
+        				</dd>
+        				<dd>
+        					<img src="img/截图 2016-12-12 19.06.39.png"/>
+        					<p>
+        						<a href="">
+        							美国那罗达庄园纳帕谷赤霞朱红葡萄酒<br />
+        							La Gota Howell Mountain Gabernet Sauvignon
+        						</a><br />
+        						<s>￥</s><strong>750.0</strong>
+        					</p>
+        					<a href=""></a>
+        				</dd>
+        			</dl>
+        			<p>推荐理由：</p>
+        			<div class='TJ'>
+        				<a href="">
+        					WINE100上一举拿下"醉"佳赤霞朱红葡萄酒,最佳红葡萄酒以及最佳葡萄酒三项桂冠。把美国酒的CREAMY甜美完美的展现出来
+        					稳定但不尖锐的酸度有很好的撑起了骨架。相比起山的厚重，它更接近与海的宽容慢慢让你的口腔被这款酒包围。黑樱桃，黑醋栗，
+        					话梅，奶油，坚果，烘烤，巧克力，悠长的余味
+        				</a>
+        			</div>
+        		</div>
+        	</div>
+        </div>
+        <!--
+        	作者：offline
+        	时间：2016-12-12
+        	描述：666666
+        -->
+        <div class='mainSiex'>
+        	<div class='shugang Ts'><i></i><b>专业特色专题</b><s>懂你 ，帮你快速提升你的专业品质</s></div>
+        	<div class='SiexB'>
+        		<img src="img/截图 2016-12-12 20.25.46.png" class='left'/>
+        		<ul class="left">
+        			<li><img src="img/go1.jpg"/></li>
+        			<li><img src="img/go2.jpg"/></li>
+        			<li><img src="img/go3.jpg"/></li>
+        			<li><img src="img/go4.jpg"/></li>
+        		</ul>
+        	</div>
+        </div>
+        <!--
+        	作者：offline
+        	时间：2016-12-12
+        	描述：777777
+        -->
+        <div class='mainSive'>
+        	<div class='shugang PPH'><i></i><b>品牌汇</b><s></s></div>
+        	<div class='SiveBom'>
+        		<div class='SiveBomTop'>
+        			<ul>
+        				<li><img src="img/z1.jpg"/></li>
+        				<li><img src="img/z2.jpg"/></li>
+        				<li><img src="img/z3.jpg"/></li>
+        				<li><img src="img/z5.jpg"/></li>
+        				<li><img src="img/z6.JPG"/></li>
+        				<li class='li1 li2'><img src="img/z7.jpg"/></li>
+        			</ul>
+        		</div>
+        		<div class='SiveBomBom'>
+        			<ul class='ul1'>
+        				<li><a href=""><img src="img/h1.jpg"/></a></li>
+        				<li><a href=""><img src="img/h2.jpg"/></a></li>
+        				<li><a href=""><img src="img/h3.JPG"/></a></li>
+        				<li><a href=""><img src="img/h4.jpg"/></a></li>
+        				<li><a href=""><img src="img/h5.jpg"/></a></li>
+        			</ul>
+        		</div>
+        	</div>
+        </div>
+        <!--
+        	作者：offline
+        	时间：2016-12-13
+        	描述：888888888888888888888888888888888888
+        -->
+        <div class='mainEight'>
+        	<div class='EightL left'>
+        		<div class='shugang JYPJ'><i></i><b>酒友品鉴</b><s></s></div>
+        		<div class='EightLBom'>
+        			<dl class="left">
+        				<dt class='left'><img src="img/jy1.png"/></dt>
+        				<dd>
+        					<a href="">桃乐丝特选公牛血干红葡萄酒</a>
+        					<s>￥</s><b>148.0</b>
+        					<ul>
+        						<li>
+        							<div class='left'><img src="img/截图 2016-12-13 09.45.32.png"/>
+        							  <span>137****1564</span>
+        							</div>
+        							<p class='left'>
+        								<span>评分 <strong>4.0</strong></span><br />
+        								<a href="">超赞的好酒，有活动一定买。酒体厚重香气浓郁，非常喜欢</a>
+        							</p>
+        						</li>
+        						<li>
+        							<div class='left'><img src="img/截图 2016-12-13 09.45.32.png"/>
+        							  <span>星际</span>
+        							</div>
+        							<p class='left'>
+        								<span>评分 <strong>4.0</strong></span><br />
+        								<a href="">超赞的好酒，有活动一定买。酒体厚重香气浓郁，非常喜欢</a>
+        							</p>
+        						</li>
+        					</ul>
+        				</dd>
+        			</dl>
+        			<dl class="left">
+        				<dt class='left'><img src="img/jy2.png"/></dt>
+        				<dd>
+        					<a href="">康纳斯顿梅洛干红葡萄酒</a>
+        					<s>￥</s><b>45.0</b>
+        					<ul>
+        						<li>
+        							<div class='left'><img src="img/截图 2016-12-13 09.45.32.png"/>
+        							  <span>w****u@38</span>
+        							</div>
+        							<p class='left'>
+        								<span>评分 <strong>4.0</strong></span><br />
+        								<a href="">黑色浆果的香气，入口酸度适中，有淡淡的皮革味道，性价比高</a>
+        							</p>
+        						</li>
+        						<li>
+        							<div class='left'><img src="img/截图 2016-12-13 09.45.32.png"/>
+        							  <span>任七十</span>
+        							</div>
+        							<p class='left'>
+        								<span>评分 <strong>4.0</strong></span><br />
+        								<a href="">较高的酸度让其保持清新的活力，酒体中等，刚开始风味稍显内敛但</a>
+        							</p>
+        						</li>
+        					</ul>
+        				</dd>
+        			</dl>
+        			<dl class="left">
+        				<dt class='left'><img src="img/jy3.png"/></dt>
+        				<dd>
+        					<a href="">黄尾袋鼠加本力苏伟葡萄酒</a>
+        					<s>￥</s><b>59.0</b>
+        					<ul>
+        						<li>
+        							<div class='left'><img src="img/截图 2016-12-13 09.45.32.png"/>
+        							  <span>马里奥1</span>
+        							</div>
+        							<p class='left'>
+        								<span>评分 <strong>4.0</strong></span><br />
+        								<a href="">酒精味较浓 有一定果香入口较甜 原来是半干的类型入口较苦 </a>
+        							</p>
+        						</li>
+        						<li>
+        							<div class='left'><img src="img/截图 2016-12-13 09.45.32.png"/>
+        							  <span>137****1564</span>
+        							</div>
+        							<p class='left'>
+        								<span>评分 <strong>4.0</strong></span><br />
+        								<a href="">黄尾袋鼠的红酒买了好几次 价格不贵 在餐酒喝着不错</a>
+        							</p>
+        						</li>
+        					</ul>
+        				</dd>
+        			</dl>
+        		</div>
+        	</div>
+        	<div class='EightR left'>
+        		<div class='EightRTop'><b>酒友品鉴</b></div>
+        		<img src="img/shou.jpg"/>
+        	</div>
+        </div>
+        <!--
+        	作者：offline
+        	时间：2016-12-13
+        	描述：9999999999999999999999999999999999999999999999999
+        -->
+        <div class='mainNine'>
+        	<div class='NineTop shugang'><i></i><b>进口葡萄酒</b>
+        		<!--<p class='right'>全部葡萄酒</p>-->
+        		<ul class='right'>
+        			<li><a href="">红葡萄酒</a></li>
+        			<li><a href="">白葡萄酒</a></li>
+        			<li><a href="">桃红葡萄酒</a></li>
+        			<li><a href="">起泡酒</a></li>
+        			<li><a href="">香槟</a></li>
+        			<li><a href="">赤霞珠</a></li>
+        			<li style="background: #624B40;"><a href=""><img src="img/截图 2016-12-13 11.19.08.png"/></a></li>
+        		</ul>
+        	</div>
+        	<div class='NineBom'>
+        		<div class='NineBomL left'>
+        			<ul>
+        				<li><a href=""><img src="img/LF1.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF2.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF3.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF4.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF5.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF6.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF7.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF8.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF9.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF10.jpg"/></a></li>
+        			</ul>
+        		</div>
+        		<div class='NineBomC left' >
+        			<ul class='NineBomCU1' id='TTTTTTT'>
+        				<li><img src='img/zhi1.jpg'/></li>
+        				<li><img src='img/zhi2.jpg'/></li>
+        				<li><img src='img/zhi3.jpg'/></li>
+        			</ul>
+        			<ul class='NineBomCU2' id='FFFFF'>
+        				<li style="background:#7E0001">1</li>
+        				<li>2</li>
+        				<li>3</li>
+        			</ul>
+        		</div>
+        		<div class='NineBomR left'>
+        			<img src="img/168.jpg" alt="" />
+        			<img src="img/169.jpg" alt="" />
+        		</div>
+        	</div>
+        </div>
+        <!--
+        	作者：offline
+        	时间：2016-12-13
+        	描述：1000000000000000000000000000000000000000000000
+        -->
+        <div class='mainTen'>
+        	<div class='TenR right'>
+        		<ul class='TenRu1'>
+        			<li style="height: 124px;">
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/em1.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">玛利亚海之情干红葡萄酒 <br /> Costa Maria Vino Tinto</a>
+        						<p>售出 32597</p>
+        						<i>￥</i><b>35.0</b>
+        					</dd>
+        				</dl>
+        				<i>1</i>
+        				<s></s>
+        			</li>
+        			<li style="height: 124px;">
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/em1.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>2</i>
+        				<s></s>
+        			</li>
+        		</ul>
+        		<ul class='TenRu2'>
+        			<li  style="height: 124px;" class="kuan">
+        				<div style="display:none;">火地岛经典赤霞珠干红葡萄酒</div>
+        				<dl class='TenRDL' style="display:block;">
+        					<dt class='left'><img src="img/em1.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>3</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>53度贵州茅台迎宾酒500ml 酱香型</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/em1.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>4</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>五粮液股份公司金碧辉煌52度</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/em1.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>5</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>百年牛栏山二锅头50度750ml*6出口</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/em1.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>6</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>酒宴网 汾酒杏花村产地 点金帝王黄</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/em1.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>7</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>飞天茅台 2014年 53度 500ml</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/em1.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>8</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>52度小糊涂仙500ml</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/em1.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>9</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>山西杏花村汾酒集团53度陈年老酒藏</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/em1.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>10</i>
+        				<s></s>
+        			</li>
+        		</ul>
+        	</div>
+        	<div class='TenL'>
+		        	  	<div class='TenLTop'>
+					       <a href="" class='right'>更多>></a>
+					       <b>性价比之选</b>
+		        	    </div>
+		        	    <ul class='TenLTopUL'>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/xj1.png"/></dt>
+		        	    			<dd><a href="">夏普浪城堡干红葡萄酒<br />Chateau CHAPRON</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>78.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 46656 <i>好评 97%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/xj2.png"/></dt>
+		        	    			<dd><a href="">克拉西湾干红葡萄酒<br />Les Hauts De Clary</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>55.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 183376 <i>好评 96%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/xj3.png"/></dt>
+		        	    			<dd><a href="">默多克詹姆士几位长相思白葡萄酒</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>68.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 809 <i>好评 99%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/xj4.png"/></dt>
+		        	    			<dd><a href="">桃乐丝公牛血金标干红葡萄酒<br />（新标）</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>108.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 95218 <i>好评 99%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/xj5.png"/></dt>
+		        	    			<dd><a href="">奔赴莫克斯赤霞珠干红葡萄酒<br />Penfolds MAX Caberent</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>278.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 1395 <i>好评 100%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+	        	   	  </ul>
+        	  		
+        	</div>
+        	<!--<div class='TenR right'>
+        		
+        	</div>-->
+        	<div class='TenL TtS'>
+		        	  	<div class='TenLTop'>
+					       <a href="" class='right'>更多>></a>
+					       <b>性价比之选</b>
+		        	    </div>
+		        	    <ul class='TenLTopUL'>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/xj6.jpg"/></dt>
+		        	    			<dd><a href="">夏普浪城堡干红葡萄酒<br />Chateau CHAPRON</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>78.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 46656 <i>好评 97%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/xj7.jpg"/></dt>
+		        	    			<dd><a href="">克拉西湾干红葡萄酒<br />Les Hauts De Clary</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>55.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 183376 <i>好评 96%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/xj8.jpg"/></dt>
+		        	    			<dd><a href="">默多克詹姆士几位长相思白葡萄酒</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>68.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 809 <i>好评 99%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/xj9.png"/></dt>
+		        	    			<dd><a href="">桃乐丝公牛血金标干红葡萄酒<br />（新标）</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>108.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 95218 <i>好评 99%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/xj10.jpg"/></dt>
+		        	    			<dd><a href="">奔赴莫克斯赤霞珠干红葡萄酒<br />Penfolds MAX Caberent</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>278.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 1395 <i>好评 100%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+	        	   	 </ul>	
+        	</div>
+        	<!--<div class='TenR right'>
+        		
+        	</div>-->
+        </div>
+        <!--
+        	作者：offline
+        	时间：2016-12-13
+        	描述：11111111111111111111111111111111111111111111
+        -->
+        <div class='mainNine mainNineZ'>
+        	<div class='TenR right TenRu22'>
+        		
+        		<ul class='TenRu2 '>
+        			<li class="kuan" style="height: 124px;">
+        				<div style="display: none;">火地岛经典赤霞珠干红葡萄酒</div>
+        				<dl class='TenRDL' style="display: block;">
+        					<dt class='left'><img src="img/em1.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>1</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>火地岛经典赤霞珠干红葡萄酒</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/em1.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>2</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>火地岛经典赤霞珠干红葡萄酒</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/em1.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>3</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>53度贵州茅台迎宾酒500ml 酱香型</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/em1.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>4</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>五粮液股份公司金碧辉煌52度</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/em1.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>5</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>百年牛栏山二锅头50度750ml*6出口</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/em1.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>6</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>酒宴网 汾酒杏花村产地 点金帝王黄</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/em1.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>7</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>飞天茅台 2014年 53度 500ml</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/em1.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>8</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>52度小糊涂仙500ml</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/em1.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>9</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>山西杏花村汾酒集团53度陈年老酒藏</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/em1.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>10</i>
+        				<s></s>
+        			</li>
+        		</ul>
+        	</div>
+        	<div class='NineTop shugang ENineTop'><i></i><b>进口葡萄酒</b>
+        		<!--<p class='right'>全部葡萄酒</p>-->
+        		<ul class='right'>
+        			<li><a href="">红葡萄酒</a></li>
+        			<li><a href="">白葡萄酒</a></li>
+        			<li><a href="">桃红葡萄酒</a></li>
+        			<li><a href="">起泡酒</a></li>
+        			<li><a href="">香槟</a></li>
+        			<li><a href="">赤霞珠</a></li>
+        			<li style="background: #624B40;"><a href=""><img src="img/截图 2016-12-13 11.19.08.png"/></a></li>
+        		</ul>
+        	</div>
+        	<div class='NineBom'>
+        		<div class='NineBomL left'>
+        			<ul>
+        				<li><a href=""><img src="img/LF1.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF2.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF3.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF4.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF5.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF6.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF7.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF8.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF9.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF10.jpg"/></a></li>
+        			</ul>
+        		</div>
+        		<div class='NineBomC left' id='NineBomCU'>
+        			<ul class='NineBomCU1' id='HuoEven'>
+        				<li><img src='img/zhi4.jpg'/></li>
+        				<li><img src='img/zhi5.jpg'/></li>
+        				<li><img src='img/zhi6.jpg'/></li>
+        			</ul>
+        			<ul class='NineBomCU2' id='JiuEven'>
+        				<li style="background:#7E0001">1</li>
+        				<li>2</li>
+        				<li>3</li>
+        			</ul>
+        		</div>
+        	</div>
+        	<div class='TenL TtS Even'>		        	  	
+		        	    <ul class='TenLTopUL'>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/xj6.jpg"/></dt>
+		        	    			<dd><a href="">夏普浪城堡干红葡萄酒<br />Chateau CHAPRON</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>78.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 46656 <i>好评 97%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/xj7.jpg"/></dt>
+		        	    			<dd><a href="">克拉西湾干红葡萄酒<br />Les Hauts De Clary</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>55.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 183376 <i>好评 96%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/xj8.jpg"/></dt>
+		        	    			<dd><a href="">默多克詹姆士几位长相思白葡萄酒</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>68.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 809 <i>好评 99%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/xj9.png"/></dt>
+		        	    			<dd><a href="">桃乐丝公牛血金标干红葡萄酒<br />（新标）</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>108.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 95218 <i>好评 99%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/xj10.jpg"/></dt>
+		        	    			<dd><a href="">奔赴莫克斯赤霞珠干红葡萄酒<br />Penfolds MAX Caberent</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>278.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 1395 <i>好评 100%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+	        	   	 </ul>	
+        	</div>
+        </div>
+        <!--
+        	作者：offline
+        	时间：2016-12-13
+        	描述：1222222222222222222222222222222222222222222222222
+        -->
+        <div class='mainTwen'>
+        	<img src="img/111.png"/>
+        </div>
+        <!--
+        	作者：offline
+        	时间：2016-12-13
+        	描述：1333333333333333333333333333
+        -->
+            <div class='mainNine'>
+        	<div class='NineTop shugang'><i></i><b>中国白酒</b>
+        		<!--<p class='right'>全部葡萄酒</p>-->
+        		<ul class='right'>
+        			<li><a href="">红葡萄酒</a></li>
+        			<li><a href="">白葡萄酒</a></li>
+        			<li><a href="">桃红葡萄酒</a></li>
+        			<li><a href="">起泡酒</a></li>
+        			<li><a href="">香槟</a></li>
+        			<li><a href="">赤霞珠</a></li>
+        			<li style="background: #624B40;"><a href=""><img src="img/截图 2016-12-13 11.19.08.png"/></a></li>
+        		</ul>
+        	</div>
+        	<div class='NineBom'>
+        		<div class='NineBomL left'>
+        			<ul>
+        				<li><a href=""><img src="img/LF1.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF2.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF3.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF4.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF5.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF6.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF7.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF8.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF9.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF10.jpg"/></a></li>
+        			</ul>
+        		</div>
+        		<div class='NineBomC left'>
+        			<ul class='NineBomCU1' id='HuoNine'>
+        				<li><img src='img/zhi7.jpg'/></li>
+        				<li><img src='img/zhi8.jpg'/></li>
+        				<li><img src='img/zhi9.jpg'/></li>
+        			</ul>
+        			<ul class='NineBomCU2' id='JiuNine'>
+        				<li style="background:#7E0001">1</li>
+        				<li>2</li>
+        				<li>3</li>
+        			</ul>
+        		</div>
+        		<div class='NineBomR left'>
+        			<img src="img/170.jpg" alt="" />
+        			<img src="img/171.jpg" alt="" />
+        		</div>
+        	</div>
+        </div>
+        <!--
+        	作者：offline
+        	时间：2016-12-13
+        	描述：144444444444444444444444444444444444444444
+        -->
+        <div class='mainTen'>
+        	<div class='TenR right'>
+        		<ul class='TenRu1'>
+        			<li style="height: 124px;">
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/em20.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">玛利亚海之情干红葡萄酒 <br /> Costa Maria Vino Tinto</a>
+        						<p>售出 32597</p>
+        						<i>￥</i><b>35.0</b>
+        					</dd>
+        				</dl>
+        				<i>1</i>
+        				<s></s>
+        			</li>
+        			<li style="height: 124px;">
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/em21.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>2</i>
+        				<s></s>
+        			</li>
+        		</ul>
+        		<ul class='TenRu2'>
+        			<li  style="height: 124px;" class="kuan">
+        				<div style="display:none;">火地岛经典赤霞珠干红葡萄酒</div>
+        				<dl class='TenRDL' style="display:block;">
+        					<dt class='left'><img src="img/em22.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>3</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>53度贵州茅台迎宾酒500ml 酱香型</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/em23.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>4</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>五粮液股份公司金碧辉煌52度</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/em24.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>5</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>百年牛栏山二锅头50度750ml*6出口</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/em25.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>6</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>酒宴网 汾酒杏花村产地 点金帝王黄</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/em26.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>7</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>飞天茅台 2014年 53度 500ml</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/em27.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>8</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>52度小糊涂仙500ml</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/em28.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>9</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>山西杏花村汾酒集团53度陈年老酒藏</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/em29.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>10</i>
+        				<s></s>
+        			</li>
+        		</ul>
+        	</div>
+        	<div class='TenL'>
+		        	  	<div class='TenLTop'>
+					       <a href="" class='right'>更多>></a>
+					       <b>爆款精选</b>
+		        	    </div>
+		        	    <ul class='TenLTopUL'>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/xj20.png"/></dt>
+		        	    			<dd><a href="">飞天茅台 2016年 53度 500ml<br /></a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>1039.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 96033 <i>好评 97%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/xj21.png"/></dt>
+		        	    			<dd><a href="">五粮液2016 52度 500ml<br /></a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>709.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 234690 <i>好评 100%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/xj22.jpg"/></dt>
+		        	    			<dd><a href="">52度茅台集团经典原浆V15 1L</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>119.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 288 <i>好评 100%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/xj23.jpg"/></dt>
+		        	    			<dd><a href="">52度剑南春500ml<br />（新标）</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>369.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 23330 <i>好评 99%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/xj24.jpg"/></dt>
+		        	    			<dd><a href="">52度茅台 任酒500ml<br /></a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>399.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 1250 <i>好评 100%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+	        	   	  </ul>
+        	  		
+        	</div>
+        	<!--<div class='TenR right'>
+        		
+        	</div>-->
+        	<div class='TenL TtS'>
+		        	  	<div class='TenLTop'>
+					       <a href="" class='right'>更多>></a>
+					       <b>大牌直降</b>
+		        	    </div>
+		        	    <ul class='TenLTopUL'>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/xj25.jpg"/></dt>
+		        	    			<dd><a href="">52度十五年红花郎<br /></a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>368.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 20 <i></i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/xj26.jpg"/></dt>
+		        	    			<dd><a href="">53度青花20汾酒500ml<br /></a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>368.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 646 <i>好评 100%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/xj27.JPG"/></dt>
+		        	    			<dd><a href="">53度红国台500ml</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>118.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 52 <i>好评 80%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/xj28.jpg"/></dt>
+		        	    			<dd><a href="">洋河蓝色经典 洋河年代 42度<br />500ml绵柔性白酒</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>89.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 0 <i></i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/xj29.jpg"/></dt>
+		        	    			<dd><a href="">洋河 蓝色经典天之蓝棉柔性白<br />酒42度 480ml</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>288.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 840 <i></i></dd>
+		        	    		</dl>
+		        	    	</li>
+	        	   	 </ul>	
+        	</div>
+        	<!--<div class='TenR right'>
+        		
+        	</div>-->
+        </div>
+        <!--
+        	作者：offline
+        	时间：2016-12-13
+        	描述：1555555555555555555555555555555555555555555
+        -->
+              <div class='mainNine'>
+        	<div class='NineTop shugang'><i></i><b>陈年老酒</b>
+        		<!--<p class='right'>全部葡萄酒</p>-->
+        		<ul class='right'>
+        			<li><a href="">80年代</a></li>
+        			<li><a href="">90年代</a></li>
+        			<li><a href="">2000年</a></li>
+        			<li><a href="">2005年</a></li>
+        			<li><a href="">2008年</a></li>
+        			
+        			<li style="background: #624B40;"><a href=""><img src="img/截图 2016-12-13 11.19.08.png"/></a></li>
+        		</ul>
+        	</div>
+        	<div class='NineBom'>
+        		<div class='NineBomL left'>
+        			<ul>
+        				<li><a href=""><img src="img/LF1.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF2.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF3.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF4.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF5.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF6.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF7.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF8.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF9.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF10.jpg"/></a></li>
+        			</ul>
+        		</div>
+        		<div class='NineBomC left'>
+        			<ul class='NineBomCU1'>
+        				<li><img src='img/zhi21.jpg'/></li>
+        				<li><img src='img/zhi22.jpg'/></li>
+        				<li><img src='img/zhi23.jpg'/></li>
+        			</ul>
+        			<ul class='NineBomCU2'>
+        				<li style="background:#7E0001">1</li>
+        				<li>2</li>
+        				<li>3</li>
+        			</ul>
+        		</div>
+        		<div class='NineBomR left'>
+        			<img src="img/172.jpg" alt="" />
+        			<img src="img/173.jpg" alt="" />
+        		</div>
+        	</div>
+        </div>
+        <!--
+        	作者：offline
+        	时间：2016-12-13
+        	描述：16666666666666666666666666666666666666666666666
+        -->
+        <div class='mainTen'>
+        	<div class='TenR right'>
+        		<ul class='TenRu1'>
+        			<li style="height: 124px;">
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/ggu1.png"/></dt>
+        					<dd class='left'>
+        						<a href="">玛利亚海之情干红葡萄酒 <br /> Costa Maria Vino Tinto</a>
+        						<p>售出 32597</p>
+        						<i>￥</i><b>35.0</b>
+        					</dd>
+        				</dl>
+        				<i>1</i>
+        				<s></s>
+        			</li>
+        			<li style="height: 124px;">
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/ggu2.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>2</i>
+        				<s></s>
+        			</li>
+        		</ul>
+        		<ul class='TenRu2'>
+        			<li  style="height: 124px;" class="kuan">
+        				<div style="display:none;">火地岛经典赤霞珠干红葡萄酒</div>
+        				<dl class='TenRDL' style="display:block;">
+        					<dt class='left'><img src="img/ggu3.png"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>3</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>53度贵州茅台迎宾酒500ml 酱香型</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/ggu4.png"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>4</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>五粮液股份公司金碧辉煌52度</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/ggu5.png"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>5</i>
+        				<s></s>
+        			</li>
+        
+        		</ul>
+        	</div>
+        	<div class='TenL'>
+		        	  	<div class='TenLTop'>
+					       <a href="" class='right'>更多>></a>
+					       <b>爆款精选</b>
+		        	    </div>
+		        	    <ul class='TenLTopUL'>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/gu1.jpg"/></dt>
+		        	    			<dd><a href="">陈年老酒 古今贡酒 2010年<br />55度 500ml</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>128.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 0 <i></i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/gu2.png"/></dt>
+		        	    			<dd><a href="">45度西凤国香酒 500ml<br />2017-2018年 陈年老酒</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>89.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 575 <i>好评 95%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/gu3.jpg"/></dt>
+		        	    			<dd><a href="">陈年老酒 53度 东方老酒（五浪<br />液出品 475ml 1997年</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>158.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 164 <i>好评 100%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/gu4.png"/></dt>
+		        	    			<dd><a href="">39度五加白酒（瓷瓶）500ml 90<br />年代 陈年老酒</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>218.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 266<i>好评 100%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/gu5.jpg"/></dt>
+		        	    			<dd><a href="">53度茅台迎宾酒 龙凤呈祥<br />500ml 酱香型白酒 2瓶装</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>199.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 0 <i></i></dd>
+		        	    		</dl>
+		        	    	</li>
+	        	   	  </ul>
+        	  		
+        	</div>
+        	<!--<div class='TenR right'>
+        		
+        	</div>-->
+        	<div class='TenL TtS'>
+		        	  	<div class='TenLTop'>
+					       <a href="" class='right'>更多>></a>
+					       <b>大牌直降</b>
+		        	    </div>
+		        	    <ul class='TenLTopUL'>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/gu6.jpg"/></dt>
+		        	    			<dd><a href="">35洋河大曲 500ml 90年代中<br />期 陈年老酒</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>288.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 38 <i>100%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/gu7.jpg"/></dt>
+		        	    			<dd><a href="">（2011年）52度五浪液<br />500ml 陈年老酒</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>839.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 355 <i>好评 100%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/gu8.jpg"/></dt>
+		        	    			<dd><a href="">50度古井贡酒（瓷瓶）250ml<br />2016年 陈年老酒</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>128.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 871 <i>好评 99%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/gu9.jpg"/></dt>
+		        	    			<dd><a href="">（2002年） 陈年老酒 48度 百<br />年卢帅500ml 整箱六瓶装</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>459.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 201 <i>100%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/gu10.png"/></dt>
+		        	    			<dd><a href="">50度大阪橙酒 500ml 2005年<br />陈年来就 六瓶装</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>499.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 159 <i>99%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+	        	   	 </ul>	
+        	</div>
+        	<!--<div class='TenR right'>
+        		
+        	</div>-->
+        </div>
+        <!--
+        	作者：offline
+        	时间：2016-12-13
+        	描述：177777777777777777777777777777777
+        -->
+        <div class='mainNine mainNineZ'>
+        	<div class='TenR right TenRu22'>
+        		
+        		<ul class='TenRu2 '>
+        			<li class="kuan" style="height: 124px;">
+        				<div style="display: none;">火地岛经典赤霞珠干红葡萄酒</div>
+        				<dl class='TenRDL' style="display: block;">
+        					<dt class='left'><img src="img/jj1.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>1</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>火地岛经典赤霞珠干红葡萄酒</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/jj2.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>2</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>火地岛经典赤霞珠干红葡萄酒</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/jj3.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>3</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>53度贵州茅台迎宾酒500ml 酱香型</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/jj4.JPG"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>4</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>五粮液股份公司金碧辉煌52度</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/jj5.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>5</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>百年牛栏山二锅头50度750ml*6出口</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/jj6.JPG"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>6</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>酒宴网 汾酒杏花村产地 点金帝王黄</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/jj7.jpg"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>7</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>飞天茅台 2014年 53度 500ml</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/jj8.JPG"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>8</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>52度小糊涂仙500ml</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/jj9.JPG"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>9</i>
+        				<s></s>
+        			</li>
+        			<li class="kuan">
+        				<div>山西杏花村汾酒集团53度陈年老酒藏</div>
+        				<dl class='TenRDL'>
+        					<dt class='left'><img src="img/jj10.JPG"/></dt>
+        					<dd class='left'>
+        						<a href="">康纳斯吨海螺干红葡萄酒 <br />（黑标）</a>
+        						<p>售出 276165</p>
+        						<i>￥</i><b>45.0</b>
+        					</dd>
+        				</dl>
+        				<i>10</i>
+        				<s></s>
+        			</li>
+        		</ul>
+        	</div>
+        	<div class='NineTop shugang ENineTop'><i></i><b>进口葡萄酒</b>
+        		<!--<p class='right'>全部葡萄酒</p>-->
+        		<ul class='right'>
+        			<li><a href="">红葡萄酒</a></li>
+        			<li><a href="">白葡萄酒</a></li>
+        			<li><a href="">桃红葡萄酒</a></li>
+        			<li><a href="">起泡酒</a></li>
+        			<li><a href="">香槟</a></li>
+        			<li><a href="">赤霞珠</a></li>
+        			<li style="background: #624B40;"><a href=""><img src="img/截图 2016-12-13 11.19.08.png"/></a></li>
+        		</ul>
+        	</div>
+        	<div class='NineBom'>
+        		<div class='NineBomL left'>
+        			<ul>
+        				<li><a href=""><img src="img/LF1.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF2.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF3.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF4.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF5.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF6.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF7.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF8.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF9.jpg"/></a></li>
+        				<li><a href=""><img src="img/LF10.jpg"/></a></li>
+        			</ul>
+        		</div>
+        		<div class='NineBomC left' id='NineBomCU'>
+        			<ul class='NineBomCU1' id='NineBomCUT'>
+        				<li><img src='img/jb1.jpg'/></li>
+        				<li><img src='img/jb2.jpg'/></li>
+        				
+        			</ul>
+        			<ul class='NineBomCU2'>
+        				<li style="background:#7E0001">1</li>
+        				<li>2</li>
+        				
+        			</ul>
+        		</div>
+        	</div>
+        	<div class='TenL TtS Even'>		        	  	
+		        	    <ul class='TenLTopUL'>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/jub1.JPG"/></dt>
+		        	    			<dd><a href="">松木双合<br />Pine Double box</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>30.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 102366 <i>好评 94%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/jub2.jpg"/></dt>
+		        	    			<dd><a href="">1950波尔多中号双支杯套装<br />（简装）</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>119.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 729 <i>好评 100%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/jub3.jpg"/></dt>
+		        	    			<dd><a href="">天鹅湖（又名天鹅醒酒器）</a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>103.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 1728 <i>好评 92%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/jub4.jpg"/></dt>
+		        	    			<dd><a href="">香槟杯双支盒装（1950）<br /></a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>119.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 151 <i>好评 100%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+		        	    	<li>
+		        	    		<dl>
+		        	    			<dt><img src="img/jub5.png"/></dt>
+		        	    			<dd><a href="">淑琴醒酒器<br /></a></dd>
+		        	    			
+		        	    			<dd class="TenLTopULD">￥<b>150.0</b></dd>
+		        	    			<dd class='TenLTopULD2'>售出 12657 <i>好评 100%</i></dd>
+		        	    		</dl>
+		        	    	</li>
+	        	   	 </ul>	
+        	</div>
+        </div>
+        <!--
+        	作者：offline
+        	时间：2016-12-13
+        	描述：页脚
+        -->
+        <div class='foter'>
+        	<div class='foterMain'>
+        		<div class='foterMainTop'>
+        			<h3 class='left'>也买酒承诺</h3>
+        		    <ul class="right">
+        		    	<li><a href="">正品承诺</a></li>
+        		    	<li style="background: url(img/icon.png) no-repeat -109px -38px;"><a href="">30天退换货</a></li>
+        		    	<li style="background: url(img/icon.png) no-repeat -109px -76px;"><a href="">恒温恒湿仓</a></li>
+        		    	<li style="background: url(img/icon.png) no-repeat -109px -114px;"><a href="">免运费</a></li>
+        		    	<li style="background: url(img/icon.png) no-repeat -109px -152px;"><a href="">满就返</a></li>
+        		    </ul>
+        		</div>
+        		<div class='foterMainBom'>
+        			<ul>
+        				<li>
+        					<dl>
+        						<dt class='GGGG'>购物指南</dt>
+        						<dd><a href="">账户注册</a></dd>
+        						<dd><a href="">购物流程</a></dd>
+        						<dd><a href="">积分制度</a></dd>
+        						<dd><a href="">礼品卡</a></dd>
+        						<dd><a href="">会员权益</a></dd>
+        						<dd><a href="">常见问题</a></dd>
+        					</dl>
+        				</li>
+        				<li>
+        					<dl>
+        						<dt class='GGGG'>购物指南</dt>
+        						<dd><a href="">账户注册</a></dd>
+        						<dd><a href="">购物流程</a></dd>
+        						<dd><a href="">积分制度</a></dd>
+        						<dd><a href="">礼品卡</a></dd>
+        						<dd><a href="">会员权益</a></dd>
+        						<dd><a href="">常见问题</a></dd>
+        					</dl>
+        				</li>
+        				<li>
+        					<dl>
+        						<dt class='GGGG'>购物指南</dt>
+        						<dd><a href="">账户注册</a></dd>
+        						<dd><a href="">购物流程</a></dd>
+        						<dd><a href="">积分制度</a></dd>
+        						<dd><a href="">礼品卡</a></dd>
+        						<dd><a href="">会员权益</a></dd>
+        						<dd><a href="">常见问题</a></dd>
+        					</dl>
+        				</li>
+        				<li>
+        					<dl>
+        						<dt class='GGGG'>购物指南</dt>
+        						<dd><a href="">账户注册</a></dd>
+        						<dd><a href="">购物流程</a></dd>
+        						<dd><a href="">积分制度</a></dd>
+        						<dd><a href="">礼品卡</a></dd>
+        						<dd><a href="">会员权益</a></dd>
+        						<dd><a href="">常见问题</a></dd>
+        					</dl>
+        				</li>
+        				<li>
+        					<dl>
+        						<dt class='GGGG'>购物指南</dt>
+        						<dd><a href="">账户注册</a></dd>
+        						<dd><a href="">购物流程</a></dd>
+        						<dd><a href="">积分制度</a></dd>
+        						<dd><a href="">礼品卡</a></dd>
+        						<dd><a href="">会员权益</a></dd>
+        						<dd><a href="">常见问题</a></dd>
+        					</dl>
+        				</li>
+        				<li>
+        					<dl>
+        						<dt class='GGGG'>购物指南</dt>
+        						<dd><a href="">账户注册</a></dd>
+        						<dd><a href="">购物流程</a></dd>
+        						<dd><a href="">积分制度</a></dd>
+        						<dd><a href="">礼品卡</a></dd>
+        						<dd><a href="">会员权益</a></dd>
+        						<dd><a href="">常见问题</a></dd>
+        					</dl>
+        				</li>
+        				<li>
+        					<dl>
+        						<dt class='GGGG'>购物指南</dt>
+        						<dd><a href="">账户注册</a></dd>
+        						<dd><a href="">购物流程</a></dd>
+        						<dd><a href="">积分制度</a></dd>
+        						<dd><a href="">礼品卡</a></dd>
+        						<dd><a href="">会员权益</a></dd>
+        						<dd><a href="">常见问题</a></dd>
+        					</dl>
+        				</li>
+        			</ul>
+        			<div class='right'>
+        				<ul class='left'>
+        					<li style="background: url(img/icon.png) 0 0px;" class='XinLang'></li>
+        					<li  style="background: url(img/icon3.png) 0 -200px;" class='ErW'></li>
+        					<li style="width: 110px;margin-top:20px;line-height: 20px;">
+        						<div class='WeiBo'   style="background: url(img/icon3.png) 0 -108px;margin-right:10px;"></div>
+        						新浪微博
+        						<a href="" style="padding: 3px 5px;background: #FFFFFF;color:#666;border-radius: 5px;">立即关注</a>
+        					</li>
+        				</ul>
+        				<ul class='right'>
+        					<li style="background: url(img/icon.png) 0 -29px;" class='XinLang'></li>
+        					<li  style="background: url(img/icon3.png) 0 -300px;" class='ErW'></li>
+        					<li  style="width:100px;margin-top: 20px;">也买酒官方微博</li>
+        				</ul>
+        			</div>
+        		</div>
+        	</div>
+        </div>
+        <div class='foterTwo'>
+        	<ul>
+        		<li><a href="">关于也买酒</a></li>
+        		<li><a href="">练习我们</a></li>
+        		<li><a href="">媒体聚焦</a></li>
+        		<li><a href="">诚招英才</a></li>
+        		<li><a href="">隐私声明</a></li>
+        	</ul>
+        </div>
+        <div class='foterTree'>
+        	
+        		<dl>
+        			<dd><a href="">友情链接</a></dd>
+        			<dd><a href="">商酒咨询网</a></dd>
+        			<dd><a href="">959品牌招商网</a></dd>
+        			<dd><a href="">邱酒电子商务网</a></dd>
+        			<dd><a href="">123美食网</a></dd>
+        			<dd><a href="">重庆婚庆</a></dd>
+        			<dd><a href="">酒招商</a></dd>
+        			<dd><a href="">烧酒网</a></dd>
+        			<dd><a href="">57团购网</a></dd>
+        			<dd><a href="">中国糖酒网</a></dd>
+        			<dd><a href="">中国品牌网</a></dd>
+        			<dd><a href="">搜狐焦点烟台站</a></dd>
+        			<dd><a href="">喵课网</a></dd>
+        			<dd><a href="">57团购网</a></dd>
+        			<dd><a href="">中国糖酒网</a></dd>
+        			<dd><a href="">中国品牌网</a></dd>
+        			<dd><a href="">搜狐焦点烟台站</a></dd>
+        			<dd><a href="">喵课网</a></dd>
+        			<dd><a href="">57团购网</a></dd>
+        			<dd><a href="">中国糖酒网</a></dd>
+        			<dd><a href="">中国品牌网</a></dd>
+        			<dd><a href="">搜狐焦点烟台站</a></dd>
+        			<dd><a href="">喵课网</a></dd>
+        			<i></i>
+        			<s></s>
+        		</dl>
+        
+        	
+        </div>
+        <div class='footerBom'>
+        	<div class='footerBomOne'>
+        		<ul>
+        			<li style="background: url(img/bg_header2.png) no-repeat -183px -228px;"><a href="">消费者最喜爱的网站之一 TOP100</a></li>
+        			<li style="background: url(img/bg_header2.png) no-repeat -181px -249px;"><a href="">仅限18周岁以上人士购买</a></li>
+        			<li style="background: url(img/bg_header2.png) no-repeat -181px -269px;"><a href="">网络社会征集网</a></li>
+        			<li style="background: url(img/bg_header2.png) no-repeat -181px -289px;"><a href="">上海工商</a></li>
+        			<li><a href="">京公网安备 11010502013828</a></li>
+        		</ul>
+           </div>
+           <div class='footerBomTwo'>
+           	
+            Copyright 2006-2015 也买酒 yesmywine.com 版权所有 
+              <a href="">|沪ICP备15036938号-1</a>
+           </div>
+           <div class='footerBomTree'>
+           	<img src="img/chengxin.png"/>
+           	<img src="img/jiujiao.jpg"style="width:112px; height:40px;"/>
+           </div>
+        </div>
+        	
+	</body>
+</html>
